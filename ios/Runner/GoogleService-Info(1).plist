@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>CLIENT_ID</key>
-	<string>117549966594-okqfc7u52ju711v83hb3g3ntpb73qdmq.apps.googleusercontent.com</string>
+	<string>117549966594-r76b2emcd94ukfi2pnuqlbnq53h48tlj.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.117549966594-okqfc7u52ju711v83hb3g3ntpb73qdmq</string>
+	<string>com.googleusercontent.apps.117549966594-r76b2emcd94ukfi2pnuqlbnq53h48tlj</string>
 	<key>API_KEY</key>
 	<string>AIzaSyBXY_nJN-qEndUJ8DGLgf6JZfXnUFuhhrY</string>
 	<key>GCM_SENDER_ID</key>
@@ -13,7 +13,7 @@
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.fideliscan.app</string>
+	<string>com.example.flutterApplication1</string>
 	<key>PROJECT_ID</key>
 	<string>fideliscan-app-e8488</string>
 	<key>STORAGE_BUCKET</key>
@@ -29,7 +29,7 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:117549966594:ios:d71c56386ea05d62258e1b</string>
+	<string>1:117549966594:ios:0c18eb3c1e11758e258e1b</string>
 	<key>DATABASE_URL</key>
 	<string>https://fideliscan-app-e8488-default-rtdb.firebaseio.com</string>
 </dict>

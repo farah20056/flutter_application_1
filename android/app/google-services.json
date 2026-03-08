@@ -8,9 +8,9 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:117549966594:android:b5add7dbc0452537258e1b",
+        "mobilesdk_app_id": "1:117549966594:android:baa21e2cb8f2ccc8258e1b",
         "android_client_info": {
-          "package_name": "com.fideliscan.app"
+          "package_name": "com.example.flutter_application_1"
         }
       },
       "oauth_client": [
